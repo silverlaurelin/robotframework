@@ -1,7 +1,7 @@
 *** Settings ***
 
-Resource  resources/Common.robot
-Resource  resources/Amazon.robot
+Resource  D:/projects/robot_framework/resources/Common.robot
+Resource  D:/projects/robot_framework/resources/Amazon.robot
 Test Setup  Begin Web Test
 Test Teardown  End Web Test
 

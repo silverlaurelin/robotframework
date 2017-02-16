@@ -1,10 +1,10 @@
 *** Settings ***
-Resource  resources/PO/LandingPage.robot
-Resource  resources/PO/TopNav.robot
-Resource  resources/PO/SearchResults.robot
-Resource  resources/PO/Product.robot
-Resource  resources/PO/Cart.robot
-Resource  resources/PO/SignIn.robot
+Resource  D:/projects/robot_framework/resources/PO/LandingPage.robot
+Resource  D:/projects/robot_framework/resources/PO/TopNav.robot
+Resource  D:/projects/robot_framework/resources/PO/SearchResults.robot
+Resource  D:/projects/robot_framework/resources/PO/Product.robot
+Resource  D:/projects/robot_framework/resources/PO/Cart.robot
+Resource  D:/projects/robot_framework/resources/PO/SignIn.robot
 
 *** Keywords ***
 user is not logged in

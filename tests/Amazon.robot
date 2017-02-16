@@ -10,7 +10,7 @@ Library  Selenium2Library
 User must sign in to check out
 
     [Tags]  Smoke
-    Open Browser  http://www.amazon.com  ie
+    Open Browser  http://www.amazon.com  chrome
     Wait Until Page Contains  Your Amazon.com
     Input Text  id=twotabsearchtextbox  Ferrari 458
     Click Button  xpath=//*[@id="nav-search"]/form/div[2]/div/input
