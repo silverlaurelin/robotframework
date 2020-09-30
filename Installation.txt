@@ -1,0 +1,6 @@
+#Installation of Robotframework on python3
+pip install RobotFramework
+# For UI automation using selenium
+pip install SeleniumLibrary
+# For Api Automation
+pip install RequestsLibrary
